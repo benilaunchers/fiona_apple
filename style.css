@@ -49,7 +49,29 @@
 	color : #B4ACAC;
 }
 .discography{
-	margin-top: 40px;
+	margin-top: 50px;
+}
+.pic {
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+.pic-header {
+	color : #B4ACAC;
+	margin: 5px;
+}
+.row-album {
+	margin: 10px;
+	display: flex;
+	justify-content:flex-start;
+	flex-wrap: wrap;
+}
+.photo {
+	border-radius: 10px;
+	width: 220px;
+	height: 220px;
 }
 .footer{
 	grid-area : footer;
