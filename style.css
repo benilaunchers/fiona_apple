@@ -39,6 +39,18 @@
 .main-content{
 	margin : 0px 20%;
 }
+.article-header {
+	color : gray;
+	font-size : 2rem;
+}
+.about p {
+	font-size : 1.1rem;
+	line-height: 30px;
+	color : #B4ACAC;
+}
+.discography{
+	margin-top: 40px;
+}
 .footer{
 	grid-area : footer;
 	color: white;
